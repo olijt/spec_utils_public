@@ -1,0 +1,21 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE files
+.idea/
+
+# Python package metadata
+*.egg-info/
+
+# Build outputs
+build/
+dist/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
